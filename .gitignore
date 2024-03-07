@@ -1,2 +1,3 @@
 data/billboard_audio/
 data_processing/.env
+data_processing/.cache
