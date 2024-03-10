@@ -1,4 +1,5 @@
 data/billboard_audio/
 data/random_audio/
+data/billboard_spec/
 data_processing/.env
 data_processing/.cache
