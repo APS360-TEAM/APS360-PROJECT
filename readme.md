@@ -1,4 +1,3 @@
 # TODO
-1. Get a cleaned version of the table
-2. Download all songs
-
+1. Train SVM
+2. Train CNN+RNN
