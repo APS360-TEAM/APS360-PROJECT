@@ -1,3 +1,3 @@
 # TODO
-1. Train SVM
-2. Train CNN+RNN
+1. Transfer Learning
+2. Hyperparameter Tuning
