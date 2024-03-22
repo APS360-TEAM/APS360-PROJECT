@@ -6,3 +6,5 @@ data/random_spec/
 data_processing/.env
 data_processing/.cache
 data_zip_parts/
+data/genre_specs/
+data/gtzan/
