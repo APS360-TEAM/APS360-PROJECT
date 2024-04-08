@@ -1,3 +1,1 @@
-# TODO
-1. Transfer Learning
-2. Hyperparameter Tuning
+# PRESENTATION LINK https://www.youtube.com/watch?v=BkXetU4h8Xk
